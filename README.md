@@ -42,12 +42,6 @@ The dataset used is the classic [Iris Dataset](https://archive.ics.uci.edu/ml/da
 
 ---
 
-## 📄 License
-
-MIT License
-
----
-
 ## ✨ Credits
 
 Built by Jainam Gandhi as part of a real-world UI + data challenge using the Preswald SDK.

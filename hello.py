@@ -8,7 +8,7 @@ text("Explore Sepal and Petal sizes across different Iris species.")
 
 # Load the dataset
 connect()
-df = get_df('iris')  # MUST match the lowercase config name
+df = get_df('iris')  
 
 # Scatter Plot: PetalLength vs PetalWidth
 fig = px.scatter(
